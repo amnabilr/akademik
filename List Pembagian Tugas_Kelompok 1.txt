@@ -1,0 +1,21 @@
+"Website Pendataan Mahasiswa Menggunakan PHP dan Database MYSQL"
+
+List pembagian tugas Website Akademik:
+
+Database dan config.php:
+-Andi Mohammad Nabil Ramadan (10119723) 
+
+Index.php dan Home.php:
+-Muhammad Rifqi Raihan Lubis (14119413)
+
+Tambah.php:
+-Aimar Bagoes Widiantoro (10119361)
+
+Tampil.php:
+-Dimas Budi Raharjo (11119813)
+
+Edit.php:
+-Luthfiyah Afra Mawardi (13119464)
+
+Delete.php:
+-Naufal Anas (14119711)
